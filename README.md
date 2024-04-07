@@ -10,7 +10,6 @@ En este repositorio público se encuentran los siguientes directorios:
     - results notebook, que contiene:
         - data: los directorios que contienen las imagenes para entrenar y evaluar
         - results.ipynb: el notebook resumen del proceso
-        - model_churrasymerinas.keras: el modelo obtenido listo y entrenado
     - presentacion.pdf: el documento de soporte para la presentación en vivo
 
 
@@ -28,5 +27,4 @@ In this public repository you will find the following directories:
     - results_notebook, which contains:
         - data: the directories that contain the images to train and test
         - results.ipynb: summmarized modeling process
-        - model_churrasymerinas.keras: final trained model
     - presentacion.pdf: the document to assist the live presentation
