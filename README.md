@@ -12,7 +12,7 @@ En este repositorio público se encuentran los siguientes directorios:
         - results.ipynb: el notebook resumen del proceso
     - presentacion.pdf: el documento de soporte para la presentación en vivo
 
-
+------------------------------------------------------------------------------------------------------
 
 
 "Churras are sheep that make great meat, while merinas are sheep that make great wool. If they breed, their offspring would make bad meat and wool, therefore shouldn't happen."
